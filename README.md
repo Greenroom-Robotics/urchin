@@ -7,7 +7,7 @@ meshes (which is ~100x faster) by passing the flag `lazy_load_meshes=True` to th
 ## Installation
 You can install urchin directly from pip.
 ```bash
-pip install urchin
+pip install gr-urchin
 ```
 ## Documentation
 
