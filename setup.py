@@ -30,14 +30,14 @@ docs_requirements = [
 ]
 
 setup(
-    name="urchin",
+    name="gr-urchin",
     version="0.0.27",
     description="URDF parser and manipulator for Python",
     long_description="URDF parser and manipulator for Python. This package is a fork of urdfpy, which seems to be no longer maintained. ",
     author="Adam Fishman",
     author_email="hello@fishbotics.com",
     license="MIT License",
-    url="https://github.com/fishbotics/urchin",
+    url="https://github.com/Greenroom-Robotics/urchin",
     keywords="robotics ros urdf robots parser",
     classifiers=[
         "Development Status :: 4 - Beta",
